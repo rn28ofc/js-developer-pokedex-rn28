@@ -1,1 +1,1 @@
-# Trilha JS Developer - Pokedex
+# Pokedex do Cloud Fullstack Bootcamp - Warburg Pincus

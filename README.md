@@ -1,1 +1,1 @@
-# Pokedex do Cloud Fullstack Bootcamp - Warburg Pincus
+# Pokedex Cloud Fullstack Bootcamp - Warburg Pincus
